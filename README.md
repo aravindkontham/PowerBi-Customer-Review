@@ -1,2 +1,3 @@
 # PowerBi-Customer-Review
-file:///C:/Users/ARWINDD/AppData/Local/Temp/Power%20BI%20Desktop/print-job-9c83d49b-d202-4d41-a631-5291f2b990e7/BritishAirways.pdf
+
+![BritishAirways_page-0001](https://github.com/aravindkontham/PowerBi-Customer-Review/assets/92075632/a94dc0db-30fc-47c1-a2b3-f9b3b14d6f8c)
